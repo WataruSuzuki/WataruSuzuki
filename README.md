@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://watarusuzuki.github.io/portfolio/](https://watarusuzuki.github.io/portfolio/)
 
+- 📝 I sometimes write articles on [blog](https://watarusuzuki.github.io)
+
 - 📫 How to reach me **devjchankchan+reachme@gmail.com**
 
 - ⚡ Fun fact **I love NBA and sneakers!!**
