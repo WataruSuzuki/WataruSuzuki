@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wataru Suzuki (a.k.a JchanKchan)</h1>
 <h3 align="center">A mobile app developer from Japan</h3>
 
-- 🔭 I’m currently working on **[FAN Communications, Inc](https://www.fancs.com/en)**
+- 🔭 I’m currently working on **[Yahoo! JAPAN](https://about.yahoo.co.jp)**
 
 - 👨‍💻 All of my projects are available at [https://watarusuzuki.github.io/portfolio/](https://watarusuzuki.github.io/portfolio/)
 
